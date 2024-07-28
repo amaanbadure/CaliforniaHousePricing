@@ -10,7 +10,7 @@ Before you begin, ensure you have the following software and tools installed:
 ### Software And Tools Requirements
 
 1. [Github Account](https://github.com)
-2. [Heroku Account](https://heroku.com)
+2. [Koyeb Account](https://app.koyeb.com)
 3. [VS Code IDE](https://code.visualstudio.com/)
 4. [GitCLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
 
@@ -32,3 +32,10 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 ```bash
 pip install -r requirements.txt
 ```
+
+## Deployment
+### Deploying to Koyeb
+
+The project has been deployed to Koyeb and can be accessed using the following public URL:
+
+[California House Price Prediction](https://domestic-lari-california-house-pricing-b0f5008a.koyeb.app/predict)
